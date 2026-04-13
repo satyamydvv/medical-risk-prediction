@@ -63,5 +63,7 @@ These align closely with real-world clinical indicators.
 
 ---
 
-## 📁 Project Structure
+## RUN ONLINE 
+https://medical-risk-prediction-fq73wibrkk4hwctryszozn.streamlit.app/
+
 
